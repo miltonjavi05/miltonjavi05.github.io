@@ -30,7 +30,8 @@ nav > a{
     text-decoration: none;
     margin-right: 10px;}
 nav > a:hover{
-  text-decoration: underline;}
+  text-decoration: underline;
+  font-size:170%;}
 header .textos-header{
     display: flex;
     height: 430px;
